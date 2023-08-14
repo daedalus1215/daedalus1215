@@ -1,5 +1,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daedalus1215&langs_count=10" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=daedalus1215&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=daedalus1215&show_icons=true" />
 
 
 
